@@ -1,5 +1,4 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/wilfredinni/django-starter-template/refs/heads/main/static/logo.png" data-canonical-src="/logo.png" width="130" height="130" />
+![Logo](https://raw.githubusercontent.com/utkarshpandey12/django-starter-template/main/static/logo.png)
 
 # Django starter template
 
